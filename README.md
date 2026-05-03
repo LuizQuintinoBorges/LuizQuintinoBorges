@@ -26,13 +26,9 @@ Atuação multidisciplinar em design, desenvolvimento e automação, com foco em
 
 💡 Foco atual: construção de sistemas automatizados com IA para aquisição e conversão de clientes.
 
----
-
-## :bar_chart: GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LuizQuintinoBorges&show_icons=true&theme=tokyonight&hide_border=true">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizQuintinoBorges&layout=compact&theme=tokyonight&hide_border=true">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800">
 </p>
-
----
