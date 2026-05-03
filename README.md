@@ -28,4 +28,4 @@ Atuação multidisciplinar em design, desenvolvimento e automação, com foco em
 
 ## 📊 GitHub Stats
 
-<img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true">
+<img src="https://streak-stats.demolab.com?user=LuizQuintinoBorges&theme=tokyonight&hide_border=true">
